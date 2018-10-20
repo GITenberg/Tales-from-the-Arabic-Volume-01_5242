@@ -1,5 +1,5 @@
 _repo: Tales-from-the-Arabic-Volume-01_5242
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Payne, John
@@ -26,5 +26,6 @@ subjects:
 - !lcsh 'Folklore -- Arab countries'
 - !lcc 'PJ'
 - !lcsh 'Fairy tales -- Arab countries'
+- GITenberg
 title: Tales from the Arabic — Volume 01
 url: http://www.gutenberg.org/ebooks/5242
